@@ -78,6 +78,7 @@ client.on('messageCreate', async message => {
 client.login('YOUR DISCORD BOT TOKEN')
 ```
 
-## Contributing
 
-Please check out it hasn't already been exists before you create issue, and check [the contribution guide](./.github/CONTRIBUTING.md) before you submit Pull Request.
+## Support
+
+For Support, Help, Bug report kindly join our discord server [Here](https://discord.gg/C9X8PuqKR5)
