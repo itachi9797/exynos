@@ -78,20 +78,6 @@ client.on('messageCreate', async message => {
 client.login('YOUR DISCORD BOT TOKEN')
 ```
 
-## Notes
-
-### Message contents intent not approved?
-
-You can set the Exynos prefix including mentions. This allows the client to read the message content.
-
-Example:
-
-```js
-new Exynos(client, {  prefix: '<@314599100811051008>' })
-
-// Commmand Usage: <@314599100811051008>exynos
-```
-
 ## Contributing
 
 Please check out it hasn't already been exists before you create issue, and check [the contribution guide](./.github/CONTRIBUTING.md) before you submit Pull Request.
