@@ -43,7 +43,7 @@ npm i exynos@latest
 ### Dev
 
 ```sh
-npm i sikey-dev/exynos/#main
+npm i itachi9797/exynos/#main
 ```
 
 ## Example usage

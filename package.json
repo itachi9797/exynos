@@ -1,6 +1,6 @@
 {
   "name": "exynos",
-  "version": "1.0.1",
+  "version": "2.0.1",
   "description": "Exynos. Easy Discord bot debuging tool.",
   "scripts": {
     "build": "tsup",
@@ -27,17 +27,17 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sikey-dev/exynos.git"
+    "url": "git+https://github.com/itachi9797/exynos.git"
   },
   "author": {
-    "name": "sikey-dev",
-    "email": "sikeydev@gmail.com"
+    "name": "itachi9797",
+    "email": "hasib69780@gmail.com"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sikey-dev/exynos/issues"
+    "url": "https://github.com/itachi9797/exynos/issues"
   },
-  "homepage": "https://github.com/sikey-dev/exynos#readme",
+  "homepage": "https://github.com/itachi9797/exynos#readme",
   "dependencies": {
     "node-fetch": "^2.6.7"
   },
